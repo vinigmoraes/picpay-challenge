@@ -1,0 +1,6 @@
+Cerberus==1.3.4
+fastapi==0.71.0
+uvicorn==0.17.0
+pycpfcnpj~=1.5.1
+strawberry-graphql==0.96.0
+email-validator==1.1.3
